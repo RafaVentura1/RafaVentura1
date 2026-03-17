@@ -1,4 +1,4 @@
-# 👋 Hello, My name is Rafael
+# 👋 Hello, I'm Rafael
 
 ### **IT Professional | Transitioning to Cybersecurity Analyst**
 
