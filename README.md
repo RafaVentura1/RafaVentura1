@@ -19,7 +19,7 @@ From managing system performance and supporting enterprise environments to leadi
 
 ### 📈 Current Projects
 * Building a **GRC Portfolio** to demonstrate risk assessment and policy writing skills.
-* Developing **Tableau Dashboards** for security and business data visualization.
+* Studying **Comptia's CySa +** To understand Security Ops, Vulnerability Mgnt, Incident Response Mgnt, Reporting & Communication.
 * Exploring **AI and Deep Learning** models.
 
 ---
